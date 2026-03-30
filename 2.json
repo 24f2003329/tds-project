@@ -1,0 +1,6 @@
+{
+  "prompt": "A highly detailed, realistic photograph of an extremely bespoke suit jacket hanging on a tailor's mannequin in a workshop. The suit is covered with an excessive number of intricate darts, seams, and hand-stitched adjustments that precisely follow a very specific body shape. The tailoring looks obsessive and overly precise, making the suit appear unnatural and impossible to wear by anyone else. Surrounding the mannequin are normal suits that look wearable, creating contrast. Warm atelier lighting, cinematic composition, shallow depth of field. No text, no labels, no diagrams.",
+  "model": "Nano Banana",
+  "concept": "overfitting",
+  "metaphor": "An overly tailored suit that fits one exact body perfectly but fails to fit anyone else, representing a model that memorizes training data but cannot generalize"
+}
