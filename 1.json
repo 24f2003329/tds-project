@@ -1,0 +1,7 @@
+{
+  "prompt": "A cinematic wide landscape showing the passage of time through climate change: on the left, a healthy green ecosystem with lush vegetation and cool tones; in the center, a single prominent tree beginning to dry and lose leaves; on the right, the same tree fully withered in a cracked, overheated, glowing environment with scorched ground, heat haze, and drifting embers. The transition across the scene is seamless and gradual, clearly showing deterioration over time. No text, no charts, no labels. Photorealistic, dramatic lighting, strong emotional contrast, magazine cover composition",
+  "model": "Nano Banana",
+  "dataset_name": "NASA GISS Surface Temperature Analysis",
+  "dataset_url": "https://data.giss.nasa.gov/gistemp/",
+  "insight": "Rising global temperatures are progressively turning living ecosystems into lifeless, overheated environments"
+}
